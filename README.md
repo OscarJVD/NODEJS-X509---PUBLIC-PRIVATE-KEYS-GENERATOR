@@ -1,0 +1,2 @@
+# NODEJS-X509---PUBLIC-PRIVATE-KEYS-GENERATOR
+NODEJS X509 - PUBLIC &amp; PRIVATE KEYS GENERATOR, To execute the project -> npm i -> npm run dev 
