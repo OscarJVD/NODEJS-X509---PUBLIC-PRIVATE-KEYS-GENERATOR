@@ -1,0 +1,17 @@
+{
+  "name": "gen_keys_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-forge": "^0.10.0",
+    "path": "^0.12.7"
+  }
+}
